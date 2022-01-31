@@ -1,0 +1,15 @@
+.main-card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(252px, 1fr));
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    padding: 2vw 10vw;
+    margin: 0 auto;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    overflow: auto;
+
+
+}
+

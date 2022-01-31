@@ -1,0 +1,54 @@
+.header-container {
+    width: 100vw;
+    height: 90px;
+    border-bottom: 3px solid cadetblue ;
+    background: #cdcfd3;
+}
+
+.logo-style {
+    margin: 0;
+    text-align: center;
+    padding-top: 10px;
+
+}
+.logo-style__link {
+    text-decoration: none;
+    color: black;
+}
+
+.links-container {
+    position: absolute;
+    top:42px;
+    width: 100%;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+.links-container__text-decoration {
+    text-decoration: none;
+    padding-right: 15px;
+    color: rgba(122, 132, 164, 0.83);
+
+}
+
+.links-container__text-decoration:hover {
+    color: #8d230f;
+
+}
+
+.like_decor {
+    font-size: xx-large;
+}
+.like-container {
+    width: fit-content;
+    height: fit-content;
+    margin-left: 50%;
+    text-align: left;
+    padding-top: 2vh;
+    color: rgb(201, 158, 16);
+    font-weight: bold;
+}
+
+
+

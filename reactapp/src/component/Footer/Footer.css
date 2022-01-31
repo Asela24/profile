@@ -1,0 +1,36 @@
+.footer {
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    background-color: darkcyan;
+
+
+}
+
+.footer__link {
+    font-size: x-large;
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-top: 20px;
+    color: #ffffff;
+
+}
+.footer__titles{
+    color: #cdcfd3;
+    text-decoration: none
+;
+}
+
+.footer__titles:hover {
+    color:#8d93a9;
+}
+
+.footer__copyright {
+    text-align: right;
+    margin-right: 5%;
+    margin-bottom: 1%;
+
+}
+
+
